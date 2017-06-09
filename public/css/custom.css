@@ -1,0 +1,45 @@
+#custom-bootstrap-menu.navbar-default .navbar-brand {
+    color: rgba(0, 0, 0, 1);
+}
+#custom-bootstrap-menu.navbar-default {
+    font-size: 14px;
+    background-color: rgba(77, 145, 179, 1);
+    background: -webkit-linear-gradient(top, rgba(172, 224, 223, 1) 0%, rgba(77, 145, 179, 1) 100%);
+    background: linear-gradient(to bottom, rgba(172, 224, 223, 1) 0%, rgba(77, 145, 179, 1) 100%);
+    border-bottom-width: 8px;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(48, 3, 3, 1);
+    background-color: rgba(77, 145, 179, 1);
+    background: -webkit-linear-gradient(top, rgba(172, 224, 223, 1) 0%, rgba(77, 145, 179, 1) 100%);
+    background: linear-gradient(to bottom, rgba(172, 224, 223, 1) 0%, rgba(77, 145, 179, 1) 100%);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(41, 68, 150, 1);
+    background-color: rgba(85, 124, 207, 1);
+    background: -webkit-linear-gradient(top, rgba(115, 93, 176, 1) 0%, rgba(85, 124, 207, 1) 100%);
+    background: linear-gradient(to bottom, rgba(115, 93, 176, 1) 0%, rgba(85, 124, 207, 1) 100%);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(123, 133, 8, 1);
+    background-color: rgba(255, 255, 255, 1);
+    background: -webkit-linear-gradient(top, rgba(88, 173, 160, 1) 0%, rgba(255, 255, 255, 1) 100%);
+    background: linear-gradient(to bottom, rgba(88, 173, 160, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle {
+    border-color: #ffffff;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+    background-color: #ffffff;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #4d91b3;
+}
